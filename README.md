@@ -20,7 +20,7 @@ Asegúrate de tener [Node.js](https://nodejs.org/) y [Yarn](https://yarnpkg.com/
 1. Clona el repositorio:
 
 - bash
-- git clone <URL_DEL_REPOSITORIO>
+- git clone https://github.com/RicardoHungJS/technical-test-Sendifico.git
 - cd sendifico-tech-test
 
 2. Instala las dependencias utilizando Yarn:
